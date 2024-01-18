@@ -1,8 +1,0 @@
-Name: BashHello
-Technology: standalone
-Type: active
-Engine: bash
-Description: Run bash script to generate alert.
-Charset: UTF-8
-tags:
-  Type: Blackbox, Web 
